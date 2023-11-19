@@ -1,0 +1,17 @@
+C:\Users\Tommy\source\repos\GPT-Console-App\GPT-Console-App\bin\Debug\net6.0\GPT-Console-App.exe
+C:\Users\Tommy\source\repos\GPT-Console-App\GPT-Console-App\bin\Debug\net6.0\GPT-Console-App.deps.json
+C:\Users\Tommy\source\repos\GPT-Console-App\GPT-Console-App\bin\Debug\net6.0\GPT-Console-App.runtimeconfig.json
+C:\Users\Tommy\source\repos\GPT-Console-App\GPT-Console-App\bin\Debug\net6.0\GPT-Console-App.dll
+C:\Users\Tommy\source\repos\GPT-Console-App\GPT-Console-App\bin\Debug\net6.0\GPT-Console-App.pdb
+C:\Users\Tommy\source\repos\GPT-Console-App\GPT-Console-App\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Tommy\source\repos\GPT-Console-App\GPT-Console-App\obj\Debug\net6.0\GPT-Console-App.csproj.AssemblyReference.cache
+C:\Users\Tommy\source\repos\GPT-Console-App\GPT-Console-App\obj\Debug\net6.0\GPT-Console-App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tommy\source\repos\GPT-Console-App\GPT-Console-App\obj\Debug\net6.0\GPT-Console-App.AssemblyInfoInputs.cache
+C:\Users\Tommy\source\repos\GPT-Console-App\GPT-Console-App\obj\Debug\net6.0\GPT-Console-App.AssemblyInfo.cs
+C:\Users\Tommy\source\repos\GPT-Console-App\GPT-Console-App\obj\Debug\net6.0\GPT-Console-App.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\source\repos\GPT-Console-App\GPT-Console-App\obj\Debug\net6.0\GPT-Console-App.csproj.CopyComplete
+C:\Users\Tommy\source\repos\GPT-Console-App\GPT-Console-App\obj\Debug\net6.0\GPT-Console-App.dll
+C:\Users\Tommy\source\repos\GPT-Console-App\GPT-Console-App\obj\Debug\net6.0\refint\GPT-Console-App.dll
+C:\Users\Tommy\source\repos\GPT-Console-App\GPT-Console-App\obj\Debug\net6.0\GPT-Console-App.pdb
+C:\Users\Tommy\source\repos\GPT-Console-App\GPT-Console-App\obj\Debug\net6.0\GPT-Console-App.genruntimeconfig.cache
+C:\Users\Tommy\source\repos\GPT-Console-App\GPT-Console-App\obj\Debug\net6.0\ref\GPT-Console-App.dll
